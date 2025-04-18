@@ -1,0 +1,5 @@
+/*
+ block drop out quick proto tcp to any port {1119, 3724}
+ block drop in  quick proto tcp from any port {1119, 3724}
+*/
+
